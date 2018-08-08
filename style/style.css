@@ -3,7 +3,9 @@ body {
 	margin: 0;
 	padding: 0;
 	background-image: url("../img/you.jpg");
-	background-repeat: repeat;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
 	background-size: cover;
 }
 main {
