@@ -2,8 +2,7 @@
 html {
 	background-image: url("../img/you.jpg") no-repeat center;	
 	background-size: cover;
-	height: 100%;
-	overflowe: hidden;
+	height: 100%;	
 }
 /* main {
 	position: absolute;
