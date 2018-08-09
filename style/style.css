@@ -1,6 +1,6 @@
 /*DESKTOP STYLE*/
 body {
-	background-image: url("../img/you.jpg") no-repeat center;	
+	background-image: url("../img/you.jpg");
 	background-size: cover;
 	height: 100%;	
 }
