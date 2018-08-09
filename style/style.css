@@ -1,14 +1,14 @@
 /*DESKTOP STYLE*/
 html {
 	height: 100%;
-}
-body {
 	background-image: url("../img/you.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
-	height: 100%;
+	background-position: center center;	
 	background-attachment: fixed;
+}
+body {
+	
 }
 main {
 	position: absolute;
