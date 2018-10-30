@@ -53,3 +53,13 @@ h5 {
 #main p, #main li {
 	font-size: 1.3em;
 }
+
+/*List group*/
+.list-group .list-group-item {
+	padding-top: 0;
+	padding-left: 0;
+}
+
+#main li {
+	border: none;
+}
