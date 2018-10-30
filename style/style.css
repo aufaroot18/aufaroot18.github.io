@@ -34,3 +34,22 @@ h5 {
 	display: inline-block;
 	margin: 0 auto;
 }
+
+/*Tab Content*/
+#main {
+	margin-top: 20%;
+	margin-left: 10%;
+	text-align: left;	
+}
+
+#main h1, #main h2 {
+	font-weight: 800;	
+}
+
+#main h2 {
+	margin-bottom: 5%;
+}
+
+#main p, #main li {
+	font-size: 1.3em;
+}
