@@ -18,3 +18,19 @@ img {
 h5 {
 	margin-bottom: 10%;
 }
+
+/*Nav tabs*/
+
+.nav .nav-item a {
+	color: black;
+}
+
+.nav-pills .nav-link.active {
+	background-color: black;
+	border-radius: 25px;
+}
+
+#sidebar ul li {
+	display: inline-block;
+	margin: 0 auto;
+}
