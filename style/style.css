@@ -117,5 +117,8 @@ h5 {
 /*Mobile Screen*/
 
 @media (max-width: 767px) {
-
+	/*image*/
+	.row .col-md-4 img {
+		display: none;
+	}
 }
