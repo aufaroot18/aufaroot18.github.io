@@ -173,4 +173,8 @@ h5 {
 		font-size: 1em;
 		margin-bottom: 2%;
 	}
+
+	#main ul.list-group li.list-group-item {
+		padding-bottom: 1%;
+	}	
 }
