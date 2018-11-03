@@ -137,6 +137,11 @@ h5 {
 		padding: 0;
 	}
 
+	/*col-md-4 nav*/
+	.row .col.md-4 .nav {
+		padding: 0 2%;
+	}
+
 	/*col-md-4, col-md-8*/
 	.row .col-md-4, .row .col-md-8 {
 		border-radius: 0;
