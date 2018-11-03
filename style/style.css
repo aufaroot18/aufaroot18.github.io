@@ -133,13 +133,17 @@ h5 {
 	}
 
 	/*col-md-4*/
-	.row .col.md-4 {
+	.container .row .col-md-4 {
 		padding: 0;
 	}
 
 	/*col-md-4 nav*/
-	.row .col.md-4 .nav {
+	.row .col-md-4 .nav {
 		padding: 0 2%;
+	}
+
+	ul.nav.nav-pills.flex-column {
+		display: inline-block;
 	}
 
 	/*col-md-4, col-md-8*/
@@ -151,4 +155,6 @@ h5 {
 	.row .col-md-4 img {
 		display: none;
 	}
+
+	/*main*/
 }
