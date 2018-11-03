@@ -157,6 +157,9 @@ h5 {
 	}
 
 	/*main*/
+	#main {
+		margin: 10%;
+	}
 	#main h1 {
 		font-size: 1.6em;
 	}
