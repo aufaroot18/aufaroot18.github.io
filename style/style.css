@@ -176,5 +176,10 @@ h5 {
 
 	#main ul.list-group li.list-group-item {
 		padding-bottom: 1%;
-	}	
+	}
+
+	/*Contact*/
+	.list-group .list-group-item .ig {
+		margin-left: -3px;
+	}
 }
