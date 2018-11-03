@@ -157,4 +157,17 @@ h5 {
 	}
 
 	/*main*/
+	#main h1 {
+		font-size: 1.6em;
+	}
+
+	#main h2 {
+		font-size: 1.3em;
+		margin-bottom: 8%;
+	}
+
+	#main p, #main li {
+		font-size: 1em;
+		margin-bottom: 2%;
+	}
 }
