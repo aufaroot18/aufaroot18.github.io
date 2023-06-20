@@ -1,20 +1,17 @@
-{
-  "last_update": "2023-06-14",
-  "global": [
-    {
-      "status": "confirmed",
-      "total": 767984989      ,
-      "detail": "https://covid19.mathdro.id/api/countries/indonesia/confirmed",
-    },
-    {
-      "status": "recovered",
-      "total": 761041599,
-      "detail": "https://covid19.mathdro.id/api/countries/indonesia/recovered",
-    },
-    {
-      "status": "death",
-      "total": 6943390,
-      "detail": "https://covid19.mathdro.id/api/countries/indonesia/deaths",
-    }
-  ]
-}
+[
+  {
+    "status": "confirmed",
+    "total": 767984989,
+    "detail": "https://covid19.mathdro.id/api/countries/indonesia/confirmed",
+  },
+  {
+    "status": "recovered",
+    "total": 761041599,
+    "detail": "https://covid19.mathdro.id/api/countries/indonesia/recovered",
+  },
+  {
+    "status": "death",
+    "total": 6943390,
+    "detail": "https://covid19.mathdro.id/api/countries/indonesia/deaths",
+  }
+]
