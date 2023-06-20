@@ -1,16 +1,17 @@
 {
+  "last_update": "2023-06-14",
   "indonesia": [
     {
       "status": "confirmed",
-      "total": 6727847
+      "total": 6810417
     },
     {
       "status": "recovered",
-      "total": 6561463
+      "total": 6648587
     },
     {
       "status": "death",
-      "total": 160777
+      "total": 161830
     }
   ],
   "regions": [
